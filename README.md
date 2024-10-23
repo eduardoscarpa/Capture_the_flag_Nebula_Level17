@@ -64,3 +64,6 @@ Per accedere alla macchina Nebula in modalità SSH, segui i passaggi descritti d
     ```
 
     Sarai quindi invitato a inserire la password associata all'account level17. Una volta inserita correttamente, verrai autenticato ed avrai accesso al sistema tramite SSH.
+
+
+Progetto realizzato da: Davide Di Sarno, Angela De Martino, Eduardo Scarpa, Alfredo Cannavaro
